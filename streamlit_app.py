@@ -13,7 +13,7 @@ from scipy.sparse import hstack
 
 
 
-st.set_page_config(page_title="Big Basket Product Recommendation System",page_icon="logo.png",layout="wide")
+st.set_page_config(page_title="Product Recommendation System",page_icon="logo.png",layout="wide")
 
 st.title('Big Basket Product Recommendation System')
 
